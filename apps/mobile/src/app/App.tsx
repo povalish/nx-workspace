@@ -9,7 +9,7 @@ export const App = () => {
     <>
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
-        <Text>Hello from ReactNative</Text>
+        <Text testID='heading'>Hello from ReactNative</Text>
       </SafeAreaView>
     </>
   );
