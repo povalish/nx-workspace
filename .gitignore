@@ -113,3 +113,8 @@ yarn-error.log
 
 
 apps/mobile-e2e/artifacts
+
+# Playwright
+**/test-results/
+**/playwright-report/
+**/playwright/.cache/
