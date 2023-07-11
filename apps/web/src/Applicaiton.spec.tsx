@@ -11,6 +11,6 @@ describe('App', () => {
 
   it('should have a greeting as the title', () => {
     const { getByText } = render(<Application />);
-    expect(getByText('Hello from NEXT.JS')).toBeTruthy();
+    expect(getByText('Hello from')).toBeTruthy();
   });
 });

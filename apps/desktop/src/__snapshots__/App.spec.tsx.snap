@@ -11,6 +11,11 @@ exports[`App should render successfully 1`] = `
       >
         Hello from Electron!
       </h1>
+      <button
+        type="button"
+      >
+        Click me!
+      </button>
     </div>
   </div>
 </body>
